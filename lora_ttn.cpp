@@ -1,3 +1,5 @@
+//bron voor het versturen van data naar TTN:https://www.thethingsindustries.com/docs/devices/the-things-uno/
+
 #include "DHT.h"
 #include <TheThingsNetwork.h>
 
